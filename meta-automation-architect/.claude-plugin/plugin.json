@@ -1,0 +1,32 @@
+{
+  "name": "meta-automation-architect",
+  "version": "2.0.0",
+  "description": "Intelligent project analysis and custom automation generation. Analyzes projects using AI agents, discovers existing tools, and generates tailored skills, commands, agents, and hooks with cost transparency and preference learning.",
+  "author": {
+    "name": "Tobias Weber",
+    "email": "comzine@gmail.com"
+  },
+  "homepage": "https://github.com/comzine/meta-automation-architect-plugin",
+  "repository": "https://github.com/comzine/meta-automation-architect-plugin",
+  "license": "MIT",
+  "keywords": [
+    "automation",
+    "meta-automation",
+    "project-analysis",
+    "code-generation",
+    "agent-based",
+    "cost-transparency",
+    "workflow-automation",
+    "intelligent-analysis"
+  ],
+  "skills": [
+    "./skills/meta-automation-architect"
+  ],
+  "commands": [
+    "./commands/meta-analyze",
+    "./commands/meta-status",
+    "./commands/meta-metrics",
+    "./commands/meta-rollback",
+    "./commands/meta-help"
+  ]
+}
