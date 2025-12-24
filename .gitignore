@@ -12,3 +12,5 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
+.claude/
+CLAUDE.md

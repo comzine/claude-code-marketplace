@@ -23,10 +23,10 @@
     "./skills/meta-automation-architect"
   ],
   "commands": [
-    "./commands/meta-analyze",
-    "./commands/meta-status",
-    "./commands/meta-metrics",
-    "./commands/meta-rollback",
-    "./commands/meta-help"
+    "./commands/meta-analyze.md",
+    "./commands/meta-status.md",
+    "./commands/meta-metrics.md",
+    "./commands/meta-rollback.md",
+    "./commands/meta-help.md"
   ]
 }
